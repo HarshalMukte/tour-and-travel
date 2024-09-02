@@ -15,16 +15,12 @@ Used technologies:
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Live link :star2:
-
-- https://goldipl.github.io/travel-website/
-
 ## How to open project locally?
 
 Firstly clone this project locally using command below in your IDE:
 
 ```bash
-git clone https://github.com/goldipl/aflux-next.git
+git clone https://github.com/HarshalMukte/tour-and-travel
 ```
 
 Secondly type:

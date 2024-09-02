@@ -25,11 +25,11 @@ const Footer = () => {
                 About Us
               </a>
             </li>
-            <li className="text-center">
+            {/* <li className="text-center">
               <a className="text-sm hover:text-[#00df9a]" href="#how_we_work">
                 How We Work?
               </a>
-            </li>
+            </li> */}
             <li className="text-center">
               <a className="text-sm hover:text-[#00df9a]" href="#gallery">
                 Gallery
